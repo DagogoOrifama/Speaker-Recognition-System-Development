@@ -1,4 +1,4 @@
-# Speaker Recognition From Scratch
+# Speaker Recognition System Development
 
 ## Overview
 
