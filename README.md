@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, we will build an LSTM-based or Transformer-based speaker recognition system from scratch.
+In this project, we will build an LSTM-based speaker recognition system from scratch.
 
 We will train the neural network on [LibriSpeech](https://www.openslr.org/12), and evaluate the Equal Error Rate (EER).
 
